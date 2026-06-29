@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grok xAI//AOM 2026 LaFamilia Sessions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AOM 2026 LaFamilia Sessions
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:LaFamilia sessions at Academy of Management 2026 (July 31 - Aug 4 + pre-conference)
+BEGIN:VEVENT
+UID:aom2026-lafamilia-0@grok.x.ai
+DTSTART;TZID=America/New_York:20260723T080000
+DTEND;TZID=America/New_York:20260723T110000
+SUMMARY:Teaching Inclusion: Evidence Based Strategies & AI Enabled Pedagogy for Restrictive Campus Contexts
+DESCRIPTION:Type: PDW\nSpeakers: Donna Maria Blancero (organizer) Erin Kelley Stacy Blake-Beard Mariana Lebron Lakia Rutherford C. Douglas Johnson Alex Hirs\n\nUniversities both across the United States and internationally are increasingly adopting policies that restrict or prohibit the use of “DEI” language\, programming\, or frameworks. Yet the underlying competencies associated with effective DEI education — perspective taking\, bias literacy\, inclusive decision making\, conflict management\, and equitable leadership — remain essential for preparing students for contemporary workplaces. This PDW equips instructors in DEI\, Organizational Behavior\, Human Resources\, and Management Education with practical\, research-based strategies for teaching these competencies in environments where DEI terminology is discouraged or prohibited. Participants will explore reframing techniques that align DEI related learning outcomes with organizationally neutral or widely accepted constructs such as leadership effectiveness\, team performance\, psychological safety\, ethical decision making\, and evidence based management. The session will also demonstrate how generative AI tools can support instructors in designing assignments\, simulations\, case studies\, and classroom activities that foster inclusion related skills without relying on DEI specific language. Examples include AI generated role plays\, bias aware decision scenarios\, syllabus re-framing\, and automated feedback tools for student reflection.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-1@grok.x.ai
+DTSTART;TZID=America/New_York:20260731T140000
+DTEND;TZID=America/New_York:20260731T150000
+SUMMARY:Brave Spaces\, Bold Work: Sustaining DEI Scholarship Through Backlash
+DESCRIPTION:Type: PDW\nSpeakers: Panelist with Sarah Rana\, Denise Robb\, Melissa Carsten\, Darryl Rice\, Robyn Brouer\, William Obenauer\, Sharon Segrest\n\nThe date and time is not announced yet\, but they said it would be some time between July 31st and August 2nd. Brave Spaces\, Bold Work: Sustaining DEI Scholarship Through Backlash-Areas of Organizational Behavior\, Human Resource Management\, Employment Law\, and International Management have been broadly impacted by anti-DEI legislation. This PDW convenes experts in the field to examine (1) the wide range of topics encompassed by DEI\, (2) Ant-DEI legislation shaping our academic work and practice\, (3) the impacts of DEI backlash on research and teaching\, and (4) the consequences for students on our campuses. This session moves beyond solely identifying the challenges we currently face to co-create tools and strategies for navigating the academic environment amidst DEI backlash. 
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-2@grok.x.ai
+DTSTART;TZID=America/New_York:20260731T150000
+DTEND;TZID=America/New_York:20260731T170000
+SUMMARY:From Draft to Craft: How to Write for the Scholarship of Teaching & Learning (MED Writers' Workshop)
+DESCRIPTION:Type: PDW\nSpeakers: Mostly MED published authors or editors (including Miguel Olivas-Lujan)\n\nAOM members researching Management Education and Development (MED) topics receive feedback from seasoned authors and editors in the field\, with the goal of taking manuscripts to a publishable level. AOM members submitting to MED are typically invited to this session but everyone is invited (deadlines apply).
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-3@grok.x.ai
+DTSTART;TZID=America/New_York:20260801T083000
+DTEND;TZID=America/New_York:20260801T103000
+SUMMARY:Vignette studies and thought experiments: Innovative tools for management research challenges
+DESCRIPTION:Type: PDW\nSpeakers: Jose R. Beltran\, Kyle J. Bradley\, Ursula Martin\, and Herman Aguinis\n\nVignette studies and thought experiments are effective experimental methods with distinct characteristics and applications that can advance management research across the micro-macro continuum. Vignette studies involve creating scenarios to manipulate variables\, facilitating real-time decision assessment\, and enabling the exploration of complex phenomena. Despite being underutilized\, they have significantly contributed to decision-making\, strategic alliances\, employee turnover\, and leadership. Our Professional Development Workshop (PDW) addresses perceived complexity\, making vignette studies more accessible. In addition\, thought experiments occur within the researcher's mind\, offering unparalleled flexibility in manipulating imagined variables without sample size or participant-related constraints. They are ideal for sensitive topics\, particularly ethical and legal issues. Our PDW equips participants with the knowledge to comprehend thought experiments' idiosyncrasies and apply them effectively\, transcending specific management subfields. Thought experiments' versatility extends to various management fields\, making them widely applicable. 
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-4@grok.x.ai
+DTSTART;TZID=America/New_York:20260801T090000
+DTEND;TZID=America/New_York:20260801T103000
+SUMMARY:Rooted Resistance III: Advancing Research On Marginalization\, Aesthetics\, and Self-Presentation
+DESCRIPTION:Type: PDW Workshop\nSpeakers: Naomi Samuel\, Dr. Samantha E. Erskine\, Dr. Holly Slay Ferraro\, Dr. Aneika Simmons\, Dr. Kathleen Park\, Dr. Tsedale M. Melaku\, Dr. Tina R. Opie\n\nRooted Resistance III is the continuation of our annual professional development workshop (PDW) on the intersection of marginalization\, identity\, and self-presentation. We apply a scholarly lens in examining the ever-evolving platforms of individual self-presentation\, both in-person and digital outlets\, as well as the increasing valuation placed on authenticity in professional settings. Due to the success (e.g.\, well attended\, continued engagement) of the previous Rooted Resistance sessions\, we are pleased to offer a third Rooted Resistance gathering as a PDW to bolster scholarship and pedagogy in these areas. Specifically\, this session’s primary objective is to advance scholarship focused on the intersection of aesthetics\, marginalization\, and the resistance of self-presentation norms which uphold identity-based social hierarchies. We foster scholarship in these areas through three in-session modules: (1) Aesthetics as Collective Resistance\, (2) Aesthetics as Research Generation\, and (3) Aesthetics as Pedagogical Practice. Within these modules\, we will offer presentations\, interactive activities\, and meaningful discussions among participants. Attendees will leave having joined our digital (and in-person) Rooted Resistance scholarly community\, and will also have added materials and ideas to use in their research and teaching efforts.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-5@grok.x.ai
+DTSTART;TZID=America/New_York:20260801T110000
+DTEND;TZID=America/New_York:20260801T123000
+SUMMARY:Research methodology: Best practices for rigorous\, credible\, and impactful research
+DESCRIPTION:Type: PDW\nSpeakers: Herman Aguinis\n\nThis is an updated PDW on methodological best practices\, given the success of its predecessor at the AOM 2025 meetings in Copenhagen. Registration was not required\, but over 330 people did so\, and more than 200 were in attendance (the security guards had to close the door and ask dozens of people to leave because the overcrowding was a fire hazard). This PDW covers the entire research process from the beginning (i.e.\, generating and testing theory) to the end (i.e.\, enhancing research impact). It is helpful for (a) research producers and (b) research consumers\, including doctoral students\, junior and senior researchers\, and journal editors and reviewers. It includes checklists\, tables\, flowcharts\, “how-to\,” and “dos and don’ts” guidelines so participants can understand the extent to which methodological best practices are being followed—and so that they can follow best practices in their own research and evaluate the research by others. 
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-6@grok.x.ai
+DTSTART;TZID=America/New_York:20260801T131500
+DTEND;TZID=America/New_York:20260801T144500
+SUMMARY:Publishing Race and Entrepreneurship Research: Navigating Bias and Backlash
+DESCRIPTION:Type: PDW\nSpeakers: Participating editors (and former editors): Chevy Fang (ETP) Annaleena Parhankangas (JSBM) Dennis Park (JBV) Maija Renko (ETP) Peter Younkin (SEJ)  Participating speakers: Rosanna Garcia –Worcester Polytechnic Institute on Systemic Inclusivity Challenges Tsedale Melaku – Baruch College on Navigating the Peer-review Process  Alexander Lewis – University of Texas San Antonio\, on Theoretical Positioning\n\nOver the past four years\, this professional development workshop has cultivated space for meaningful dialogue and rigorous research at the intersection of race and entrepreneurship. We have traced the evolution of this field—from mapping its foundations (2022)\, to navigating the publication process (2023)\, introducing Bourdieu's Practice Theory as a lens to understand structure and agency (2024)\, and exploring race and entrepreneurship across global contexts (2025).\n\nThis year's PDW focuses on the process of publishing race and entrepreneurship research\, with attention to the systemic challenges of manuscript development\, editorial evaluation\, and peer review. We aim to equip scholars with practical\, theory-informed strategies to successfully develop\, position\, and publish race-conscious entrepreneurship research in mainstream journals.\n
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-7@grok.x.ai
+DTSTART;TZID=America/New_York:20260802T130000
+DTEND;TZID=America/New_York:20260802T153000
+SUMMARY:Making the Most of It: Being Successful in a Post-Doc and Beyond
+DESCRIPTION:Type: PDW\nSpeakers: Elena Wong\n\nFollowing the growing interest and success of this professional development workshop (PDW) that we have been running since 2021 at the Academy of Management (AOM) Annual Meeting\, we continue the series with a new group of panelists to share their experiences with post-doc positions. In previous years\, we had 50 to 150 people attending the session\, engaging with our discussants during and after the session\, and sharing sentiments regarding the helpfulness of the session. As such\, this session continues to be an important pillar of the AOM due to the increased interest and relevance of post-doc positions. Moreover\, post-doc positions can be critical yet under-discussed career opportunities for academics in management. This is surprising given that an increasing number of successful management scholars are starting their careers in post-doc positions. To this end\, our PDW will address three main questions: (1) What are the long-term career benefits of post-doc positions? (2) What does it mean to be successful as a post-doc\, including being productive and becoming well-positioned to find an academic job? and (3) How can doctoral students secure post-doc positions? Our interdisciplinary panel reflects a range of institutions\, geographic regions\, career stages\, and research backgrounds. By bringing diverse perspectives\, we hope to enrich the current conversation on post-doc positions as springboards toward faculty roles and empower attendees to make informed decisions in their academic careers.\n\n
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-8@grok.x.ai
+DTSTART;TZID=America/New_York:20260802T130000
+DTEND;TZID=America/New_York:20260802T140000
+SUMMARY:Social and Environmental Value Creation and Capture
+DESCRIPTION:Type: Poster\nSpeakers: Azucena Grady\, Karla Corres Luna\n\nThis poster examines how definitions and drivers of value creation and capture have evolved since Lepak\, Smith\, and Taylor (2007)\, expanding beyond economic outcomes to incorporate social and environmental dimensions. As entrepreneurs and organizations increasingly face pressure to address societal and ecological challenges alongside traditional profit objectives\, understanding these evolving concepts becomes critical. Drawing on frameworks including stakeholder synergy\, social bricolage\, sustainability-oriented business models\, and responsible governance\, this poster explores mechanisms enabling organizations to balance competing priorities while scaling their impact. It explores key gaps in understanding how evolving definitions translate into actionable strategies\, how organizations navigate tensions between economic profitability and social/environmental value generation\, and what drives these conceptual shifts. By synthesizing recent theoretical developments and empirical insights\, this review offers a comprehensive framework integrating beyond economic into social and environmental dimensions of value creation and capture. The poster contributes to entrepreneurship scholarship by advancing theoretical understanding of context-dependent value definitions\, highlighting governance mechanisms for aligning stakeholder priorities\, and providing actionable insights for social and sustainable entrepreneurship research. For practitioners\, it offers guidance on aligning organizational practices with broader societal goals while maintaining competitive advantages. This work contributes to entrepreneurship literature by demonstrating how traditional value creation and capture concepts must adapt to contemporary grand challenges\, fostering innovation pathways that simultaneously serve economic viability and societal welfare.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-9@grok.x.ai
+DTSTART;TZID=America/New_York:20260802T140000
+DTEND;TZID=America/New_York:20260802T160000
+SUMMARY:Measuring and maximizing influence: Using the CSII and SIP tools for scholarly excellence
+DESCRIPTION:Type: PDW\nSpeakers: Jose R. Beltran\, Mauricio Mercado\, Bria C. Gibson\, and Herman Aguinis\n\nThis Professional Development Workshop (PDW) equips scholars with innovative frameworks and measurement tools to elevate their influence beyond traditional metrics. Participants will explore the Contextualized Scholarly Impact Index (CSII). This multidimensional tool integrates contextual relevance\, temporal dynamics\, and comprehensive data to assess academic impact more accurately than citation counts or the h-index. Through hands-on demonstrations\, attendees will calculate their own CSII scores using freely accessible software. The workshop also introduces the Scholarly Impact Performance (SIP) framework\, which expands impact across personal\, educational\, societal\, and global dimensions via the CORE performance model (Capacity\, Opportunity\, Relevant Exchanges). Emphasizing stakeholder engagement\, SIP shifts focus from static evaluations to actionable strategies for sustained influence inside and outside of the Academy. In interactive segments\, participants will create their own Personal Impact Development Plans (PIDPs) to align skills\, activities\, and goals with targeted stakeholders and outcomes\, fostering communication\, collaboration\, and adaptability. This PDW provides essential tools to bridge the science-practice gap\, inform policy\, and drive meaningful change in management education and beyond.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-10@grok.x.ai
+DTSTART;TZID=America/New_York:20260802T143000
+DTEND;TZID=America/New_York:20260802T160000
+SUMMARY:Attending to Know-How & Knowing How to Attend:  Examining the Mutual Shaping of Attention & Expertise
+DESCRIPTION:Type: Presenter Symposium\nSpeakers: James Rodriguez\, David Nicolini\, Farnam Mohebi\, Nishani Bourmault\, Daisy Chung\, Yoojin Jeong\n\nThis symposium examines how attention and expertise are mutually shaped in everyday work. Rather than treating attention as a scarce cognitive resource or expertise as a stable individual attribute\, the session brings together practice-based and relational perspectives that conceptualize both as socially produced\, materially embedded\, and interactionally sustained. Across diverse empirical settings\, the papers show how what people notice\, ignore\, evaluate\, and act upon is inseparable from how expertise is enacted\, recognized\, and transformed. The presentations trace these dynamics across clinical\, technological\, organizational\, and creative domains. The first paper shows how automating peripheral clinical tasks eliminates forms of diffuse attention that are necessary for diagnostic expertise\, thereby reshaping what expert judgment can be. The second paper demonstrates how professionals develop awareness of the relational infrastructures that enable their expertise when moving across contexts\, and how this awareness reorients what they attend to and how they work. The third paper examines how organizational experts and technology vendors co-construct evaluative standards for AI tools\, showing how expertise guides attention toward particular comparisons\, risks\, and performance criteria\, while these attentional practices redefine what counts as expertise in relation to algorithms. The fourth paper analyzes how embodied\, sensory attention enables the elicitation and translation of tacit expertise during routine redesign\, and how deep routine expertise allows actors to redirect attention away from execution toward change. The final paper shows how animation studio directors use their expertise to organize clients’ attention during feedback on works in progress\, shaping how non-experts see\, interpret\, and evaluate creative work while simultaneously refining their own understanding of client tastes. Together\, the papers demonstrate that expertise becomes consequential only when it is attended to\, and that attention is never neutral but oriented by expertise\, roles\, routines\, technologies\, and relationships. By foregrounding these reciprocal dynamics\, the symposium contributes to research on attention\, expertise\, and organizing by clarifying their interdependence\, highlighting the practices through which they co-evolve\, and offering methodological and conceptual tools for studying attention and expertise as situated\, relational accomplishments.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-11@grok.x.ai
+DTSTART;TZID=America/New_York:20260803T113000
+DTEND;TZID=America/New_York:20260803T130000
+SUMMARY:The Contrapower Tax on Women of Color CEOs: Micropolitics\, Emotions\, and Organizational Sensework
+DESCRIPTION:Type: Paper\nSpeakers: Dr. Samantha E. Erskine and Dr. Diana Bilimoria\n\nFormal authority at the organizational apex does not guarantee epistemic authority—the credibility to define problems\, interpret evidence\, and set agendas. Through critical grounded theory analysis of 24 interviews with 15 Black women and Latina nonprofit CEOs\, we theorize how institutional hegemonies are reproduced and resisted through micropolitical sensework: the situated\, power-laden coupling of meaning-making and emotion work that stabilizes or destabilizes legitimacy. We show how predominantly white stakeholders deploy sensegiving and sensebreaking tactics—euphemizing\, tone-policing\, agenda-resetting\, evoking white fragility—to decouple Black women and Latina CEOs' formal authority from epistemic credibility\, while those CEOs engage in counter-sensegiving to reclaim interpretive control and sensebreaking to repair sabotaged meaning systems. This process extracts what we term a contrapower tax: the excess emotional\, temporal\, and political labor women of color CEOs expend managing stakeholder fragility\, re-credentialing their expertise\, and restoring organizational focus—labor required precisely because they hold authority. We contribute by (1) theorizing micropolitical sensework as the meshing of sensegiving/sensebreaking with discursive emotion work\, extending power scholarship beyond cognition to embodied\, affective practice\; (2) introducing the contrapower tax to explain how formal authority paradoxically increases regulation of women of color leaders\; and (3) specifying how the coupling of meaning and emotion orients attention\, procedures\, and resources to reproduce or contest hegemony at the apex. Our findings advance intersectional leadership theory and reveal mechanisms through which inequality regimes persist even when women of color occupy the top office.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-12@grok.x.ai
+DTSTART;TZID=America/New_York:20260803T164500
+DTEND;TZID=America/New_York:20260803T181500
+SUMMARY:Do You Even Know What You Are Talking About? How Accent Bias Impacts Career Outcomes
+DESCRIPTION:Type: Division Paper\nSpeakers: Gabriela Rodriguez\, Mauricio Mercado\, Scott Moore\n\nImplicit leadership theory suggests that leadership evaluations reflect cognitive prototypes of who “fits” leader roles\, while implicit stereotype theory highlights how social group cues can automatically activate biased judgments. In hiring contexts\, sociolinguistic cues such as accent can therefore function as potent signals of group membership that shape leadership-relevant evaluations. Building on these perspectives\, we develop a proposition-based model of how a Mexican Spanish accent influences interview\, hiring\, and salary recommendations for Latina leadership applicants. Specifically\, we propose that a Mexican Spanish accent lowers employability outcomes indirectly by reducing perceived competence via prototype-based lack-of-fit inferences. We further argue that organizational context can disrupt this categorization process: when English–Spanish bilingualism is explicitly stated as a bona fide occupational qualification (BFOQ) in the job description\, the accent can be recoded as competence-relevant\, attenuating—or potentially reversing—the negative indirect effects of accent bias. By theorizing BFOQs as a boundary condition that can pivot implicit categorization and by centering Mexican women’s intersectional labor-market experiences\, this paper extends scholarship on accent discrimination\, leadership\, and bias mitigation while identifying contextually actionable strategies for more equitable selection.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-13@grok.x.ai
+DTSTART;TZID=America/New_York:20260804T080000
+DTEND;TZID=America/New_York:20260804T093000
+SUMMARY:Beyond Fads and Fashions:  How to Produce Relevant\, Rigorous\, and High-Impact Research
+DESCRIPTION:Type: Panel\nSpeakers: Herman Aguinis\, David B. Audretsch\, Alfredo De Massis\, Nicolai Foss\, Annabelle Gawer\, David J. Ketchen\, Christian Kowalkowski\, Tatiana Kostova\, Wendy Smith\, and Silvio Vismara \n\nBusiness schools\, and management scholarship in particular\, are facing several existential threats. These include the erosion of perceived relevance\, AI disruption\, incentive misalignments and publication “games\,” the credibility crisis\, and excessive theoretical fragmentation and proliferation\, among others. Accordingly\, producing relevant\, rigorous\, and high-impact management research is now more critical than ever. The panelists are uniquely qualified to offer specific and actionable advice on how to address these issues in that they are some of the most cited management scholars—those who appear on the Highly Cited Researchers list compiled by Clarivate Analytics-Web of Science.  In 2025\, only 81 scholars in the broad fields of “economics and business” made the list. Of these 81\, only 15 are listed in the Academy of Management’s membership directory (i.e.\, 18.52%)\, and 10 of them are on this panel. Although of particular interest to ENT\, STR\, and TIM\, this session will also be of broad appeal given the panelists’ collective membership in 15 AOM Divisions and Interest Groups (i.e.\, CTO\, DEI\, ENT\, HR\, IM\, MED\, OB\, OMT\, ONE\, OSCM\, RM\, SAP\, SIM\, STR\, and TIM).  Using a question-and-answer format that will include the active participation of the audience\, the panelists will address the following topics: (1) Beyond fads and fashions\; (2) Relevance: For whom and how?\, (3) Rigor: Methods\, theory\, and transparency\; (4) Impact: What\, on whom\, and how to measure it?\, (5) Relevance vs. rigor: Trade-offs or false dichotomy?\, and (6) Moving the field forward: Institutions\, incentives\, and training. The session will offer concrete\, experience-based guidance from top-cited scholars that will be useful for AOM members at all career stages. 
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-14@grok.x.ai
+DTSTART;TZID=America/New_York:20260804T080000
+DTEND;TZID=America/New_York:20260804T093000
+SUMMARY:Lessons from the Field: Publishing Management Research in a Burgeoning Psychedelics Ecosystem
+DESCRIPTION:Type: Symposium\nSpeakers: Elena Wong\n\nLessons from the Field: Publishing Management Research in a Burgeoning Psychedelics Ecosystem marks the fourth annual Academy of Management symposium focused on psychedelics as a consequential and maturing site for organization and management scholarship. Building on growing evidence that psychedelic-assisted therapy (PAT) represents a promising alternative within the global mental health crisis\, the symposium situates this domain squarely within mainstream management inquiry as it moves from the margins toward increasing scientific\, regulatory\, and organizational legitimacy. Where earlier symposia emphasized conceptual framing and field emergence—including the 2025 Copenhagen symposium highlighting European regulatory and cultural variation—this year’s program turns to the practical realities of sustained empirical engagement. As scholars have progressed into deeper phases of data collection\, analysis\, and publication\, new insights have emerged around access\, positionality\, ethics\, and theory-building in stigmatized and legally complex settings. The symposium features five empirical research projects examining leadership\, professionalization\, institutional logics\, expertise construction\, and historical consciousness\, alongside candid reflections on methodological and ethical challenges encountered in the field. Together\, the presentations offer both theoretical advances and practical guidance for navigating real-time\, morally complex research contexts. Designed to be both grounded and generative\, the session provides an energizing space for established scholars and newer researchers alike who are interested in producing rigorous\, impactful management research in emerging and contested domains.\n\n
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-15@grok.x.ai
+DTSTART;TZID=America/New_York:20260804T094500
+DTEND;TZID=America/New_York:20260804T111500
+SUMMARY:Teaching and Learning HR around the World: Challenges and Practices
+DESCRIPTION:Type: In-Person Panel Symposium\nSpeakers: Frans Bévort\, Beata Buchelt\, Sergio Madero\, Miguel Olivas-Lujan\, Aleksy Pocztowski\, József Poór\, Alexander Madsen Sandvik\n\nHuman Resource Management (HRM) education faces diverse challenges across global contexts\, from foundational principles to advanced\, specialized courses such as International HRM\, Training & Development\, Compensation\, Diversity & Inclusion\, Labor Relations\, and Workplace Safety. This symposium brings together scholars from seven countries to explore how cultural\, institutional\, and technological factors shape both teaching and learning in HRM. Our discussion will highlight key issues such as limited access to non-U.S./W.E.I.R.D. (White\, Educated\, Industrialized\, Rich\, Democratic) course materials\, the professionalization of HR as a strategic function\, and the role of certification standards in shaping curricula. While Artificial Intelligence (AI) is transforming HR practice and pedagogy\, we aim to broaden the conversation beyond AI to include innovative approaches for engaging students\, integrating global perspectives\, and addressing resource constraints. By sharing experiences and best practices from five different world regions\, namely Northern Europe\, Eastern Europe\, the Middle East\, North and Latin America\, this symposium seeks to foster dialogue on how educators can prepare future HR professionals for an increasingly complex and interconnected world. Attendees will gain insights into comparative teaching strategies\, emerging trends\, and collaborative opportunities for advancing HR education globally.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aom2026-lafamilia-16@grok.x.ai
+DTSTART;TZID=America/New_York:20260804T150000
+DTEND;TZID=America/New_York:20260804T163000
+SUMMARY:Industry Dynamics\, Clusters\, and Market Positioning
+DESCRIPTION:Type: Paper\nSpeakers: Azucena Grady\n\nDistinctiveness is a central concept in strategy and organization research. Organizations strive to stand out\, yet in ways that others can recognize and value. While the notion of distinctiveness is prevalent—whether framed as differentiation\, innovation\, identity\, or category—we rarely ask whether the measures of distinctiveness align with theories of how audiences evaluate it. This potential misalignment underpins empirical fragmentation that pervades optimal distinctiveness (OD) research—a growing literature that explores how organizations balance differentiation and conformity. We argue that empirical inconsistencies in OD are not a signal of weak theory but stem from a lack of alignment between theory and measures. Seemingly similar measures of distinctiveness encode different evaluative logics about how audiences perceive\, compare\, and value difference. We demonstrate this through a systematic review of 78 OD studies and an empirical comparison of 42 distinctiveness measures\, showing that measurement variance mirrors theoretical variance\, as each measure models a distinct way that audiences perceive and judge difference. To resolve this misalignment\, we develop a theory-method alignment framework\, linking the theory of evaluation to the practice of measurement. The framework reframes measurement as a theoretical act\, transforming methodological diversity from a source of fragmentation into a foundation for cumulative theorizing about distinctiveness in organizations.
+CATEGORIES:AOM,LaFamilia,PDW,Research
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
